@@ -1,0 +1,76 @@
+{
+    "@@locale": "en",
+    "appTitle": "OpenWorkOut",
+    "@appTitle": {
+      "description": "The title of the application"
+    },
+    "homeScreenTitle": "My Workout Routines",
+    "noRoutinesMessage": "No workout routines yet. Tap + to add one!",
+    "confirmDeleteTitle": "Confirm Delete",
+    "confirmDeleteRoutineContent": "Are you sure you want to delete \"{routineName}\"? This will also delete all associated exercises.",
+    "@confirmDeleteRoutineContent": {
+      "placeholders": {
+        "routineName": {
+          "type": "String"
+        }
+      }
+    },
+    "cancelButton": "Cancel",
+    "deleteButton": "Delete",
+    "addRoutineButton": "Add Routine",
+    "editRoutineButton": "Edit Routine",
+    "routineDetailsScreenTitle": "Routine Details",
+    "noExercisesMessage": "No exercises for this routine yet. Tap + to add one!",
+    "confirmDeleteExerciseContent": "Are you sure you want to delete \"{exerciseName}\"?",
+    "@confirmDeleteExerciseContent": {
+      "placeholders": {
+        "exerciseName": {
+          "type": "String"
+        }
+      }
+    },
+    "addExerciseButton": "Add Exercise",
+  
+    "addExerciseTitle": "Add Exercise",
+    "editExerciseTitle": "Edit {exerciseName}",
+    "@editExerciseTitle": {
+      "placeholders": {
+        "exerciseName": {
+          "type": "String"
+        }
+      }
+    },
+    "exerciseNameLabel": "Exercise Name",
+    "exerciseNameHint": "Eg. Shoulder Press",
+    "exerciseNameRequired": "Exercise name is required.",
+    "categoryLabel": "Category (Optional)",
+    "categoryHint": "Eg. Upper Body, Cardio",
+    "setsLabel": "Sets",
+    "setsHint": "Eg. 3",
+    "setsRequired": "Sets is required and must be a number.",
+    "repsStepsLabel": "Reps/Steps",
+    "repsStepsHint": "Eg. 10-12",
+    "repsStepsRequired": "Reps/Steps is required and must be a number.",
+    "rpeOptionalLabel": "RPE (Optional)",
+    "enterRpeHint": "Enter RPE (1-10)",
+    "invalidRpeRange": "RPE must be between 1 and 10.",
+    "notesOptionalLabel": "Notes (Optional)",
+    "enterNotesHint": "Enter any additional notes...",
+    "selectImagesButton": "Select Images",
+    "selectedImagesCount": "{count,plural, =0{No images selected} =1{1 image selected} other{{count} images selected}}",
+    "@selectedImagesCount": {
+      "placeholders": {
+        "count": {
+          "type": "int"
+        }
+      }
+    },
+    "imageSelectionPlaceholder": "Image selection not implemented yet. Simulated adding a path.",
+    "enterVideoUrlsLabel": "Enter Video URLs",
+    "addVideoUrlTooltip": "Add another video URL field",
+    "invalidUrlError": "Please enter a valid URL.",
+    "saveChangesButton": "Save Changes",
+    "exerciseAddedSuccess": "Exercise added successfully!",
+    "exerciseUpdatedSuccess": "Exercise updated successfully!",
+    "saveExerciseError": "Failed to save exercise"
+  }
