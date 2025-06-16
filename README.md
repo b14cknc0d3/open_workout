@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat)](https://opensource.org/licenses/MIT)
 [![Stars](https://img.shields.io/github/stars/b14cknc0d3/open_workout?style=social)](https://github.com/b14cknc0d3/open_workout/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com/)
-
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/b14cknc0d3/open_workout?utm_source=oss&utm_medium=github&utm_campaign=b14cknc0d3%2Fopen_workout&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
 ---
 
 ## 🚀 Overview
